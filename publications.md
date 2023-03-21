@@ -2,7 +2,7 @@
 
 -------------------------
 
-**Thomas, T. B.**, Hu, R., and Lo, D. Y. (2023) Constraints on the Size and Composition of the Ancient Martian Atmosphere from Coupled CO<sub>2</sub>-N<sub>2</sub>-Ar Isotopic Evolution Models. *Planetary Science Journal*
+**Thomas, T. B.**, Hu, R., and Lo, D. Y. (2023) Constraints on the Size and Composition of the Ancient Martian Atmosphere from Coupled CO<sub>2</sub>-N<sub>2</sub>-Ar Isotopic Evolution Models. *Planetary Science Journal****
 
 >Read the paper: [Planetary Science Journal](https://doi.org/10.3847/PSJ/acb924), [ArXiv](https://arxiv.org/abs/2302.04241).
 <br />
