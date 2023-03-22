@@ -4,6 +4,9 @@ layout: default
 # Home
 
 -------------------------
+[twitter](https://twitter.com/rlolegario)
+
+-------------------------
 Hi, thanks for stopping by!
 
 I'm a PhD Candidate in Medical Sciences at Faculty of Medicine, [University of Brasília](https://international.unb.br/) (UnB). I received my MSc in Behavioural Sciences (Research line: Cognition and Behavioural Neurosciences) at Institute of Psychology, UnB.
