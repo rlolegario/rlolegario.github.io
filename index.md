@@ -13,3 +13,4 @@ If you are looking for a research collaboration, do not hesitate to contact me. 
 ------------------------
 
 Links: [Email](rlolegario@hotmail.com) | [Twitter](https://twitter.com/rlolegario) | [ResearchGate](https://www.researchgate.net/profile/Raphael-Olegario) | [LinkedIn](https://www.linkedin.com/in/raphaellolegario/)
+------------------------
