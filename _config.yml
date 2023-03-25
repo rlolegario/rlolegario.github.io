@@ -14,4 +14,6 @@ navigation:
     url: outreach
   - title: Curriculum Vitae
     url: assets/cvs/
+    -title: Test
+    url: astrobiology
 
