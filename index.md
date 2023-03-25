@@ -10,4 +10,5 @@ Prior to this, I obtained my BSc in Physical Education/Fitness at Faculty of Phy
 
 If you are looking for a research collaboration, do not hesitate to contact me. If you are just browsing, please enjoy the content! =)
 
+-------------------
 Links: [Email](rlolegario@hotmail.com) | [Twitter](https://twitter.com/rlolegario) | [ResearchGate](https://www.researchgate.net/profile/Raphael-Olegario) | [LinkedIn](https://www.linkedin.com/in/raphaellolegario/)
