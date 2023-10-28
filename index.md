@@ -19,7 +19,7 @@ layout: default
 
 **Passion for Neurosciences and Aging**
 
-  My profound interest lies in neurosciences, especially in applying neuroscientific approaches, bolstered by mathematical rigor, to the study of human aging. I believe that understanding the intricacies of the aging brain is crucial for improving the quality of life for older individuals and contributing to the field of gerontology.
+  My profound interest lies in neurosciences, especially in applying neuroscientific approaches, bolstered by mathematical rigor, to the study of human aging. I believe that understanding the intricacies of the aging brain is crucial for improving the quality of life for older individuals and contributing to the field of geroscience.
 
 **Get in Touch**
 
