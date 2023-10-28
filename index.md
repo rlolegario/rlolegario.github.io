@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-  Welcome to my page! I am a dedicated professional with a diverse educational background and a profound interest in the field of neuroscience, with a particular focus on its applications in understanding human aging.
+  Welcome to my page! I am a dedicated professional with a diverse educational background and a deep passion for the field of neuroscience, particularly its applications in the understanding of human aging.
 
 **Education and Academic Background**
 
