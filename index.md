@@ -7,7 +7,7 @@ layout: default
 
 **Education and Academic Background**
 
-  I hold a Bachelor's degree in Physical Education/Fitness from the [University of Brasília](https://international.unb.br/)(UnB), providing me with a solid foundation in human physiology and the promotion of physical well-being. Furthermore, I have undergone specialized training in exercise prescription for specific populations, with a particular emphasis on individuals affected by Parkinson's disease and Alzheimer's disease. This training equips me with the expertise to address the unique needs of these populations and enhance their overall health and quality of life.
+  I hold a Bachelor's degree in Physical Education/Fitness from the [University of Brasília](https://international.unb.br/) (UnB), providing me with a solid foundation in human physiology and the promotion of physical well-being. Furthermore, I have undergone specialized training in exercise prescription for specific populations, with a particular emphasis on individuals affected by Parkinson's disease and Alzheimer's disease. This training equips me with the expertise to address the unique needs of these populations and enhance their overall health and quality of life.
   
   Additionally, I earned a Bachelor's degree in Mathematics from the [International University Center](https://globalhub.uninter.com/en/), showcasing my proficiency in numerical reasoning and problem-solving. I have a deep interest in applying this mathematical knowledge to clinical research, where precision and data analysis are paramount.
 
