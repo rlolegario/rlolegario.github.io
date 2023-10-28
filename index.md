@@ -5,7 +5,7 @@ layout: default
   
   Hi, thanks for stopping by and welcome to my page! 🙂
 
-  I am a dedicated professional with a diverse educational background and a deep passion for the field of neuroscience, particularly its applications in the understanding of human aging.
+  I am a dedicated professional hailing from Brazil, with an interdisciplinary educational background and a profound passion for the field of neuroscience, particularly its applications in understanding human aging.
 
 ### **Education and Academic Background**
 -----------------------
