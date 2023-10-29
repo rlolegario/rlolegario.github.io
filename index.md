@@ -37,4 +37,4 @@ I am a novice researcher hailing from Brazil, with an interdisciplinary educatio
   If you share a passion for neuroscience, are intrigued by its applications in the study of aging, or have any questions or inquiries, please don't hesitate to get in touch. Let's explore the fascinating world of neurosciences, mathematics, and aging together.
 
 -------------------
-Links: [Email](rlounb@gmail.com) | [Twitter](https://twitter.com/rlolegario) | [ResearchGate](https://www.researchgate.net/profile/Raphael-Olegario) | [LinkedIn](https://www.linkedin.com/in/raphaellolegario/)
+Links: [Email](rlounb@gmail.com) | [Twitter](https://twitter.com/rlolegario) | [ResearchGate](https://www.researchgate.net/profile/Raphael-Olegario) | [LinkedIn](https://www.linkedin.com/in/raphaellolegario/) | [Lattes](http://lattes.cnpq.br/1991018394816701)
