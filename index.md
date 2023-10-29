@@ -29,7 +29,7 @@ I am a novice researcher hailing from Brazil, with an interdisciplinary educatio
 ### **Passion for Neurosciences and Aging**
 ----------------------------
 
-  My profound interest lies in neurosciences, especially in applying neuroscientific approaches, bolstered by mathematical rigor, to the study of human aging. I believe that understanding the intricacies of the aging brain is crucial for improving the quality of life for older individuals and contributing to the field of geroscience.
+  My profound interest lies in neurosciences, especially in applying neuroscientific approaches, bolstered by mathematical rigor, to the study of human aging. I believe that understanding the intricacies of the aging brain is crucial for improving the quality of life for older individuals and contributing to the field of geroscience. For further insights into this fascinating field, I maintain a website dedicated to these topics at [www.neuroscienceofaging.com](https://neuroscienceofaging.com/).
 
 ### **Get in Touch**
 ---------------------------------
