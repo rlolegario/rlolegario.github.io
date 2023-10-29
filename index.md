@@ -6,7 +6,7 @@ layout: default
   
 I am a novice researcher hailing from Brazil, with an interdisciplinary educational background and a profound passion for the field of neuroscience, particularly its applications in understanding human aging.
 
- *Key Interests: Aging Neuroscience; Mathematical Modeling; Cognitive Computational Neuroscience*
+ **Key Interests: Aging Neuroscience; Mathematical Modeling; Cognitive Computational Neuroscience**
 
 ### **Education and Academic Background**
 -----------------------
