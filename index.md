@@ -2,7 +2,7 @@
 layout: default
 ---
 
-  ### Key Interests: Aging Neuroscience; Mathematical Modeling; Cognitive and Computational Neuroscience ###
+  **Key Interests: Aging Neuroscience; Mathematical Modeling; Cognitive and Computational Neuroscience**
   
   
   *Hi, thanks for stopping by and welcome to my page!* 🙂
