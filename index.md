@@ -3,9 +3,9 @@ layout: default
 ---
   
   
-  Hi, thanks for stopping by and welcome to my page! 🙂
-
-  > I am a novice researcher hailing from Brazil, with an interdisciplinary educational background and a profound passion for the field of neuroscience, particularly its applications in understanding human aging.
+  *Hi, thanks for stopping by and welcome to my page!* 🙂
+  
+  >I am a novice researcher hailing from Brazil, with an interdisciplinary educational background and a profound passion for the field of neuroscience, particularly its applications in understanding human aging.
 
 ### **Education and Academic Background**
 -----------------------
